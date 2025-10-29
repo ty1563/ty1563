@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Snake animation](https://github.com/ty1563/ty1563/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ty1563&label=Profile%20views&color=0e75b6&style=flat" alt="ty1563" /> </p>
