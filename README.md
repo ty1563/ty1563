@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ty1563&show_icons=true&locale=en" alt="ty1563" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ty1563&" alt="ty1563" /></p>
-![Snake animation](https://github.com/ty1563/ty1563/blob/output/github-contribution-grid-snake.svg)
